@@ -1,1 +1,1 @@
-module.exports = require( "./lib/localhose" )
+module.exports = Npm.require( "./lib/localhose" )
