@@ -1,0 +1,22 @@
+{
+  "name": "localhose",
+  "version": "0.1.4",
+  "description": "Hose your hosts file for easier local web development",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jed/localhose.git"
+  },
+  "bin": {
+    "localhose": "./cli.js"
+  },
+  "engines": [
+    "node"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./index",
+  "files": [
+    ""
+  ]
+}
