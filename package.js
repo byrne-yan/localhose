@@ -14,7 +14,7 @@ Package.onUse(function(api) {
     api.versionsFrom('1.1.0.2');
 
     //api.addFiles('index.js',['server']);
-    api.addFiles('lib/localhose.js');
+    api.addFiles('lib/localhose.js',['server']);
 
     api.export('localhose');
 });
